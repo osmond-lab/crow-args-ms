@@ -1,0 +1,6 @@
+CairoSVG==2.9.1
+cartopy==0.25.0
+ipykernel==7.3.0
+matplotlib==3.11.1
+numpy==2.5.3
+tskit==1.0.2
